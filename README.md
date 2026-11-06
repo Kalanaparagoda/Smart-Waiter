@@ -8,7 +8,7 @@
 [![GCP Cloud Run](https://img.shields.io/badge/GCP-Cloud_Run-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/run)
 [![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat&logo=socket.io)](https://socket.io/)
 
-🌐 **Live API Engine:** [https://cloudyra-server-373117821334.asia-southeast1.run.app](https://cloudyra-server-373117821334.asia-southeast1.run.app)
+🌐 **Live API Engine:** [https://qr-waiter-503210.web.app/](https://qr-waiter-503210.web.app/)
 
 ---
 
